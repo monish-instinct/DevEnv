@@ -6,7 +6,7 @@ Welcome to **DevEnv**, an Android library packaged as an `.aar` file for quick i
 
 ## 📦 Download
 
-👉 [Download the latest release (.aar)](https://github.com/monish-instinct/DevEnv/releases/download/DevEnv/DevEnv.aar)
+👉 [Download the latest release (.aar)]([https://github.com/monish-instinct/DevEnv/releases/download/DevEnv/DevEnv.aar](https://github.com/monish-instinct/DevEnv/releases/download/DevEnv/app-release.aar))
 
 ---
 
